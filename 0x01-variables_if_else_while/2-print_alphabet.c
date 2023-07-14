@@ -1,5 +1,6 @@
 #include <stdio.h>
-/**
+/*
+ *
  * main entry point
  * description: prints all alphabet letters
  *
@@ -8,7 +9,7 @@
 
 int main(void)
 {
-	char ch = 'a';
+	char ch = "a";
 	while (ch <= "z");
 	{
 		putchar (ch);

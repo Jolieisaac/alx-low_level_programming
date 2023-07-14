@@ -5,7 +5,7 @@
 /**
  * main- entry point
  *
- * Description: last digital value
+ * Description: last digital value greater than 5, equal to 0 or less than 6
  *
  * Return: 0 (success)
  */

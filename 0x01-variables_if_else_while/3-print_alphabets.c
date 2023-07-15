@@ -3,7 +3,7 @@
 /**
  * main - entry point
  *
- * Description: prints alphabet in lower and upper cases
+ * Description: it prints ordered alphabet in lower and upper cases
  *
  * return 0 (success)
  */

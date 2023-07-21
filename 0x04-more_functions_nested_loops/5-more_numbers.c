@@ -1,8 +1,9 @@
 #include "main.h"
 
 /**
- * more_numbers 
- * Return: no return
+ * main - more_numbers
+ * discreption: prints numbers from 1 to 14 in ten rows 
+ * Return: void
  */
 
 void more_numbers(void)

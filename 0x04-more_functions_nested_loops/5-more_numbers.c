@@ -2,7 +2,7 @@
 
 /**
  * main - more_numbers
- * discreption: prints numbers from 1 to 14 in ten rows 
+ * discreption: prints numbers from 1 to 14 in ten rows
  * Return: void
  */
 
